@@ -1,9 +1,9 @@
 
 
-**Workbook Summary: Key Points**  
+## **Workbook Summary: Key Points**  
 
 ---
- ** Week 1 Excell**
+ ## ** Week 1 Excell**
 ### **Day 1: Data Protection Laws**  
 **Task 1: Compliance Overview**  
 - **Data Protection Act (DPA)**:  
@@ -75,9 +75,9 @@
 
 ---
 
-** Week 2 Tableau and Power BI **
+## ** Week 2 Tableau and Power BI **
 
-**Workbook Summary: Key Points**
+## **Workbook Summary: Key Points**
 
 ### **Day 1: Tableau Overview**
 - **Task 1: Tableau Versions Comparison**  
@@ -132,9 +132,9 @@
 - **Power BI Skills**: Focus on data import, transformation, and dashboard creation for reporting.  
 
 
-** Week 3 - SQL **
+## ** Week 3 - SQL **
 
-**Short Summary of the Database Setup & Code:**
+ **Short Summary of the Database Setup & Code:**
 
 1. **Business Needs & Tables**  
    - **Goal**: Track inventory, sales, customers, and employees.  
@@ -199,7 +199,7 @@
 - **Security**: Role-based access protects sensitive data.  
     
 
-## 📚 ** Week 5 workbook**
+### 📚 ** Week 5 workbook**
 
 ### **Day 1: Understanding Cloud Computing**
 You learned what **cloud computing** is and how it's used in real life (like Netflix, Google Drive, or Microsoft 365). It helps businesses save money, stay flexible, work remotely, and keep data safe.
@@ -276,7 +276,7 @@ Then you reviewed a business scenario for a company called **Paws & Whiskers**, 
 
 ---
 
-## 📘 ** week 6 (Python & Data Practice)**
+### 📘 ** week 6 (Python & Data Practice)**
 
 ### **Day 2 – Python Challenge: FizzBuzz**
 You tackled a popular coding interview question using Python:
