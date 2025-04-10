@@ -44,5 +44,10 @@ Each week focused on specific areas, building a strong foundation in data manipu
 * **Day 2: Python Challenge: FizzBuzz**: Reinforcing fundamental Python programming skills by solving the FizzBuzz challenge, focusing on conditional statements (`if`, `elif`, `else`).
 * **Day 3: Working with Student Data in Pandas**: Utilizing the Pandas library in Python for data manipulation and analysis. Tasks included loading and exploring CSV data, indexing and slicing DataFrames, data manipulation (adding/renaming/dropping columns), aggregation and grouping, advanced operations (pivot tables, adding calculated columns), and exporting data.
 * **Day 4: Global Data Practice: GDP Data**: Applying Pandas skills to a real-world GDP dataset, focusing on data loading, basic exploration, and collaborative data analysis in a google Colabs Notebook environment.
+* <img width="277" alt="image" src="https://github.com/user-attachments/assets/533e0110-10c2-4f50-b2e9-d7e83326f4a3" />
+
+<img width="451" alt="image" src="https://github.com/user-attachments/assets/bfdddc2d-6711-4713-affb-aa8c6d857e71" />
+
+
 
 
