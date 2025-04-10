@@ -14,12 +14,17 @@ Each week focused on specific areas, building a strong foundation in data manipu
 * **Day 2: Excel Data Analysis**: Practicing fundamental Excel functions for data manipulation, including converting data to tables, filtering, sorting, and using `SUM` and `AVERAGE` functions for basic calculations.
 * **Day 3: Pivot Tables & Data Categorization**: Leveraging Pivot Tables to summarize and analyze data, identify key trends (e.g., bike sales by region and demographics), and categorize data using the `SWITCH` function for insightful reporting.
 * **Day 4: Presentation Preparation**: Developing strategies for presenting data-driven insights to stakeholders, focusing on effective communication, data storytelling, and the appropriate use of visualization tools like Excel, Power BI, and Tableau.
+  ![image](https://github.com/user-attachments/assets/4391759f-5281-4b08-a433-a0ae32bf19da)
+
 
 ### 📊 **Week 2: Tableau and Power BI for Data Visualization**
 
 * **Day 1: Tableau Overview**: Comparing different Tableau versions (Desktop, Server/Cloud, Public) and understanding their features, limitations, and use cases. Initial exploration of creating visualizations in Tableau (EMSI Job Change Dashboard).
 * **Day 2: Data Analysis**: Conducting in-depth data analysis using Tableau and Power BI, extracting key findings and implications from diverse datasets like Spotify trends and global health data. Focused on identifying correlations, trends, and actionable recommendations.
 * **Day 3-4: Power BI Labs**: Hands-on experience with Power BI Desktop, covering the end-to-end workflow of data import, transformation using Power Query, report design with various visuals, and the creation of interactive dashboards.
+  
+  <img width="451" alt="image" src="https://github.com/user-attachments/assets/f704dc74-9edd-4952-93ca-11b707f9c876" />
+
 
 ### ⚙️ **Week 3: SQL for Database Management**
 
